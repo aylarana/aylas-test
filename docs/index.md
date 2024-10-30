@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Welcome to my new Markdown file!!
+# Welcome to my new Markdown file!
 
 ## This is the second level header
 
